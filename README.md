@@ -145,11 +145,13 @@ By the end of this milestone, you would be having a working chatbot system that 
 
 
 ## URLs
-Demo video YT URL: 
+Demo video YT URL:https://drive.google.com/file/d/1tMqufhAGLdp-I9fIbayywD7UXwV5WoMt/view?usp=drive_link 
 
-project URL: https://aman916715.github.io/Gym-management/
+PDF File With ScreenShoots and explanation about project :https://drive.google.com/file/d/1dbbzV1e5WZ0-MSjoZp_O9sdjja-eNCpH/view?usp=drive_link 
 
-Azure Account ID: amangupta9076@gmail.com
+Working project URL:https://aman916715.github.io/Gym-management/
+
+Azure Account ID: fareed7khan7@gmail.com
 
 ## Acknowledgements
 My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy.
